@@ -1,5 +1,5 @@
 package checkers.quals;
-
+//
 /**
  * Specifies the locations to which a {@link DefaultQualifier} annotation applies.
  *
